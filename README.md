@@ -262,7 +262,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 
   - [Itisha](https://github.com/itishacodes)
-  - [GGG](https://github.com/ggg).
+  - [Demo](https://github.com/demo).
   - [Demo](https://github.com/demo)
 
     | [`Back To Top`](#contents) |
